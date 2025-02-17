@@ -1,0 +1,3 @@
+The Azure OpenAI API provides powerful tools for building AI-driven applications. 
+It includes functionalities like text completion, embeddings, and more. 
+You can use these APIs for various natural language processing tasks.
